@@ -5,7 +5,7 @@
     "manifest_version": 3,
     "action": {
       "default_popup": "uno.html",
-      "default_icon": "image1.png"
+      "default_icon": "assets/image1.png"
 
     }
   }
